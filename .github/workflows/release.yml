@@ -1,0 +1,35 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build entie.skill
+        run: |
+          find entie -name '.DS_Store' -delete
+          zip -r entie.skill entie/
+          unzip -l entie.skill
+
+      - name: Publish GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Entie Skill ${{ github.ref_name }}
+          files: entie.skill
+          generate_release_notes: true
+          body: |
+            **Install:** download `entie.skill` below, then in Claude.ai go to
+            **Settings → Capabilities → Skills → Upload skill** and select the file.
+
+            Direct download link (always points at the latest release):
+            https://github.com/${{ github.repository }}/releases/latest/download/entie.skill

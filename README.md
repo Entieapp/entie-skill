@@ -26,7 +26,7 @@ When this skill is installed, Claude can help you write Entie marketing copy, Ap
 
 ### Option 2 — Install a specific version
 
-If you want a specific version (e.g. for rollback or testing), grab it from the [Releases page](https://github.com/Entieappentie-skill/releases) and follow the same upload steps.
+If you want a specific version (e.g. for rollback or testing), grab it from the [Releases page](https://github.com/Entieapp/entie-skill/releases) and follow the same upload steps.
 
 ### Option 3 — Use locally (Claude Code / API)
 
@@ -86,17 +86,26 @@ After committing changes, bump the version in `entie/SKILL.md` (if you use one) 
 
 (For maintainers.)
 
-1. Update `CHANGELOG.md` with the new version and what changed.
-2. Commit and push.
-3. Package the skill (zip the `entie/` folder, rename to `entie.skill`):
+Releases are built automatically by GitHub Actions. To ship a new version:
+
+1. Update `CHANGELOG.md` with the new version and what changed, then commit and push to `main`.
+2. Create and push a version tag:
 
    ```bash
-   cd entie-skill
-   zip -r entie.skill entie/
+   git tag v1.0.0
+   git push origin v1.0.0
    ```
 
-4. Create a new GitHub release with tag `v<X.Y.Z>` and attach `entie.skill`.
-5. Users following the install link automatically get the new version.
+The [`Release` workflow](.github/workflows/release.yml) then zips the `entie/` folder
+into `entie.skill` and publishes it as a GitHub Release attached to that tag.
+The `releases/latest/download/entie.skill` link in this README automatically
+points at the newest one.
+
+Need to build the file locally for testing? Run:
+
+```bash
+zip -r entie.skill entie/
+```
 
 ---
 
