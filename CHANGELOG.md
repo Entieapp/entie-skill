@@ -21,6 +21,11 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ---
 
+## [1.0.1] — 2026-05-25
+
+### Added
+- Added app logo
+
 ## [1.0.0] — 2026-05-25
 
 ### Added
