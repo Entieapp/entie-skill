@@ -50,7 +50,7 @@ To update to the latest version:
 
 Check the [CHANGELOG](CHANGELOG.md) to see what changed.
 
-For mobile app releases, see the [mobile app changelog](MOBILE_APP_CHANGELOG.md).
+For mobile app releases, see the [mobile app changelog](entie/MOBILE_APP_CHANGELOG.md).
 
 ---
 

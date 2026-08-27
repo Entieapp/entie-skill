@@ -2,7 +2,7 @@
 
 All notable changes to the Entie mobile app releases will be documented in this file.
 
-This changelog is separate from [CHANGELOG.md](CHANGELOG.md), which tracks changes to the Entie skill.
+This changelog is separate from [CHANGELOG.md](../CHANGELOG.md), which tracks changes to the Entie skill.
 
 ---
 

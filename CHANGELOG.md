@@ -18,7 +18,7 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 ## [1.0.2] — 2026-08-27
 
 ### Added
-- Added a separate [mobile app changelog](MOBILE_APP_CHANGELOG.md) for Entie releases on the App Store and Google Play.
+- Added a separate [mobile app changelog](entie/MOBILE_APP_CHANGELOG.md) for Entie releases on the App Store and Google Play.
 
 ## [1.0.1] — 2026-05-25
 
