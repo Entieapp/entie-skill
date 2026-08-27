@@ -15,11 +15,10 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ## [Unreleased]
 
-### Planned
-- Add real app screenshots
-- Expand `examples/social-media.md` with seasonal campaign examples
+## [1.0.2] — 2026-08-27
 
----
+### Added
+- Added a separate [mobile app changelog](MOBILE_APP_CHANGELOG.md) for Entie releases on the App Store and Google Play.
 
 ## [1.0.1] — 2026-05-25
 
@@ -52,6 +51,3 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
   - Social media examples
 - Screenshot folder structure (`assets/screenshots/`) with placeholder READMEs for each feature, onboarding, and UI elements.
 - GitHub installation instructions via Releases.
-
-[Unreleased]: https://github.com/Entieapp/entie-skill/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/Entieapp/entie-skill/releases/tag/v1.0.0
