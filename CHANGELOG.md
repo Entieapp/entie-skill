@@ -17,6 +17,7 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ### Added
 - Updated the daily tip feature. How it works, etc.
+- Added Google Sheet connector. Now the skill can read app notifications.
 
 ## [1.0.2] — 2026-08-27
 

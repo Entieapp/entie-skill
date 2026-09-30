@@ -32,7 +32,7 @@ Any Entie content should follow the brand fundamentals. Read at minimum:
 Full index in [`features/README.md`](features/README.md). Individual files:
 
 - [`features/cycle-tracking.md`](features/cycle-tracking.md) — shared cycle tracking (both partners can log)
-- [`features/daily-ai-summary.md`](features/daily-ai-summary.md) — daily AI recap for both partners
+- [`features/daily-ai-tip.md`](features/daily-ai-tip.md) — the daily AI tip
 - [`features/daily-logging.md`](features/daily-logging.md) — mood, body, intimacy check-ins
 - [`features/couple-questions.md`](features/couple-questions.md) — synced questions revealed only when both answer
 - [`features/ai-chat.md`](features/ai-chat.md) — three chat modes (Simple, Deep Talk, Guided Space)
@@ -47,6 +47,10 @@ Full index in [`examples/README.md`](examples/README.md). Individual files:
 - [`examples/app-store-copy.md`](examples/app-store-copy.md) — App Store / Play Store descriptions
 - [`examples/support-replies.md`](examples/support-replies.md) — customer support response templates
 - [`examples/social-media.md`](examples/social-media.md) — social post examples
+
+### Notifications — live Google Sheet
+
+The notification list (triggers, texts, on/off status) lives in a Google Sheet, not in this repo. For any task about push or local notifications (designing a new one, reviewing the set, writing copy, deciding what to enable or disable), **read [`notifications/README.md`](notifications/README.md) first** and then fetch the sheet through the Google Drive connector as it describes.
 
 ### Visual references
 
@@ -72,3 +76,4 @@ Screenshots of the actual app live in [`assets/screenshots/`](assets/screenshots
 - **Bigger marketing piece** (App Store, landing page): read all `brand/*` files + the relevant feature files + `examples/app-store-copy.md`.
 - **Customer support reply**: read `brand/voice-and-tone.md` + `brand/guardrails.md` + the relevant feature file + `examples/support-replies.md`.
 - **Explaining a feature**: read the feature file + `brand/voice-and-tone.md`.
+- **Notifications** (new, review, copy): read `notifications/README.md`, fetch the sheet, then `brand/voice-and-tone.md` + `brand/guardrails.md`.
