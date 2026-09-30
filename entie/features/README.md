@@ -9,7 +9,7 @@ When new features are added, drop in a new `.md` file and link it here.
 | Feature | File | One-line summary |
 |---|---|---|
 | Cycle Tracking | [`cycle-tracking.md`](cycle-tracking.md) | Either partner can log and view cycle data; the partner gets daily support guidance. |
-| Daily AI Summary | [`daily-ai-summary.md`](daily-ai-summary.md) | A daily AI-generated recap of the relationship, visible to both partners. |
+| Daily AI Tip | [`daily-ai-tip.md`](daily-ai-tip.md) | A short, personalized AI tip on the Dashboard with one small thing each partner can do today. |
 | Daily Logging | [`daily-logging.md`](daily-logging.md) | Gentle daily check-ins: mood, body, activity, intimacy. |
 | Couple Questions | [`couple-questions.md`](couple-questions.md) | Synced questions — answers are revealed only when both partners respond. |
 | AI Chat (3 modes) | [`ai-chat.md`](ai-chat.md) | Simple Chat, Deep Talk, and Guided Space — three ways to talk to (and through) the AI. |

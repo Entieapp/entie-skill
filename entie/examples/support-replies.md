@@ -53,7 +53,7 @@ Support replies should be warm and personable first; correct or instruct second.
 > Entie isn't a magic switch, and a month is short. But it's also fair feedback that something's not landing for you. A couple of questions that might help us figure out what:
 >
 > — Have either of you tried Guided Space yet? It's the mode designed for the harder conversations.
-> — Are you both opening the daily summary regularly?
+> — Are you both opening the daily tip regularly?
 >
 > If you want to share a little more about what you were hoping for, we'll see if we can point you somewhere useful — or pass it along to the product team if Entie's just not doing what you need.
 >

@@ -26,7 +26,7 @@ These are reference examples — adapt to current store character limits and fea
 >
 > 🌿 **Track the cycle, together.** Either one of you can log it. Both of you get the picture. The partner gets daily tips on how to show up that day.
 >
-> ☀️ **A daily read on your relationship.** Entie writes a short summary every day — what's likely on her mind, one small thing you could do about it.
+> ☀️ **A small idea, every day.** Entie writes a short tip just for you — one small thing you could do today to feel closer.
 >
 > 💬 **Three ways to talk.** Ask Entie anything in Simple Chat. Work through something confusing in Deep Talk. Have the hard conversation together in Guided Space, with a quiet AI presence in the room.
 >

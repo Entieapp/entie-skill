@@ -17,7 +17,7 @@ Daily entries cover:
   - location (home or not)
   - other relevant context
 
-This data feeds the [Daily AI Summary](daily-ai-summary.md) and longer-term analytics in [Cycle Tracking](cycle-tracking.md).
+This data feeds the [Daily AI Tip](daily-ai-tip.md) and longer-term analytics in [Cycle Tracking](cycle-tracking.md).
 
 ## Who uses it
 
@@ -26,7 +26,7 @@ This data feeds the [Daily AI Summary](daily-ai-summary.md) and longer-term anal
 
 ## Why it matters
 
-Logging is the input that makes everything else work — without it, the AI summary and recommendations have nothing to work with. But logging is also a private moment of paying attention to yourself, which has value on its own.
+Logging is the input that makes everything else work — without it, the AI tip and recommendations have nothing to work with. But logging is also a private moment of paying attention to yourself, which has value on its own.
 
 The framing matters: this is a **daily check-in**, not a medical chart.
 

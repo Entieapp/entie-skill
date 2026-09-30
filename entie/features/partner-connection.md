@@ -13,7 +13,7 @@ The mechanism that links two partners' accounts inside Entie. The app understand
   - [Couple Questions](couple-questions.md)
   - [Guided Space](ai-chat.md) (in AI Chat)
   - Shared cycle data
-  - Shared [Daily AI Summary](daily-ai-summary.md)
+  - Shared [Daily AI Tip](daily-ai-tip.md)
 
 ## Supported couple configurations
 

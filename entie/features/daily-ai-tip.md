@@ -53,4 +53,4 @@ It turns *"what could I do for us today?"* from a blank page into a gentle nudge
 
 ## Screenshots
 
-Visual references live in [`../assets/screenshots/features/daily-ai-summary/`](../assets/screenshots/features/daily-ai-summary/). Check that folder for the current set of screens.
+Visual references live in [`../assets/screenshots/features/daily-ai-tip/`](../assets/screenshots/features/daily-ai-tip/). Check that folder for the current set of screens.

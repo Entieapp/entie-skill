@@ -20,7 +20,7 @@ This is the master line. See [`../brand/usp.md`](../brand/usp.md) for usage rule
 - "Cycle data, daily support, shared between you."
 - "On day 23 he gets a heads-up. On day 1 he already knows."
 
-### Daily AI Summary
+### Daily AI Tip
 - "Wake up. Open Entie. Know what kind of day today is."
 - "A short daily read. A better evening together."
 

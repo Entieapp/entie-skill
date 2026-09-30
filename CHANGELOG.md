@@ -42,7 +42,7 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
   - Guardrails (medical, mental health, sexual content, relationship advice, privacy, gender)
 - Feature documentation (`features/`):
   - Cycle Tracking (shared by both partners)
-  - Daily AI Summary
+  - Daily AI Tip
   - Daily Logging
   - Couple Questions (synced reveal)
   - AI Chat — three modes (Simple Chat, Deep Talk, Guided Space)
