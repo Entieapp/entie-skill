@@ -13,7 +13,10 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ---
 
-## [Unreleased]
+## [1.0.3] — 2026-09-30
+
+### Added
+- Updated the daily tip feature. How it works, etc.
 
 ## [1.0.2] — 2026-08-27
 
