@@ -31,16 +31,17 @@ If the connector is unavailable, say so and ask the user to paste the table. Nev
 | Image | Optional image |
 | Payload | Technical data, e.g. `redirect` target or `cancelPush` |
 | Action buttons | Optional buttons |
-| Dev Status | See below |
+| Status | See below |
 | Comment | What happens on tap (deep link / screen) |
 
-## Dev Status values
+## Status values
 
 | Value | Meaning |
 |---|---|
 | `Development` | Being built or already built, treat as included. The notifications is in development environment |
 | `Production` | The notifications is in production environment |
 | `Planned` | Agreed, not started |
+| `In progress` | Being built right now, not live yet |
 | `Stopped` (sic, means Stopped) | Turned off. Do not count it as active |
 | empty | No status set. Say so, do not assume it is on or off or in any environment |
 
@@ -55,7 +56,7 @@ When the user is designing a new notification or reviewing the current set:
 4. **Write copy** for the new notification:
    - Follow `brand/voice-and-tone.md` and `brand/guardrails.md` (no medical claims, no gendered assumptions, no pressure).
    - Match the shape of existing rows: a short title, a description of one or two short sentences, same variable names.
-   - Give the Trigger, Gender, Sender, Payload / tap destination and suggested Dev Status alongside the text so it can be pasted into the sheet as a row.
+   - Give the Trigger, Gender, Sender, Payload / tap destination and suggested Status alongside the text so it can be pasted into the sheet as a row.
    - Cycle notifications are sensitive: keep them neutral, use "your predictions", never imply diagnosis.
 5. **Do not edit the sheet.** This skill only reads it. Give the user a row to paste.
 

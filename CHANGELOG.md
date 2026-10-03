@@ -13,6 +13,13 @@ and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ---
 
+## [1.1.0] — 2026-10-03
+
+### Added
+- Relationship Health Score feature (`features/relationship-health-score.md`): inputs (three check-in questions + internal signals), use on the Dashboard and via MCP for the AI service, and the full 0–100 range descriptions.
+- Measurement cadence: the three questions are re-asked every 30 days; between measurements the score decreases by 0.2 points per day.
+- Notifications: renamed the `Dev Status` column to `Status` to match the sheet and added `In progress` as a possible status value.
+
 ## [1.0.3] — 2026-09-30
 
 ### Added

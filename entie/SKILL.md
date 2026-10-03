@@ -38,6 +38,7 @@ Full index in [`features/README.md`](features/README.md). Individual files:
 - [`features/ai-chat.md`](features/ai-chat.md) — three chat modes (Simple, Deep Talk, Guided Space)
 - [`features/life-stage-modes.md`](features/life-stage-modes.md) — Cycle, Pregnancy, Menopause modes
 - [`features/partner-connection.md`](features/partner-connection.md) — how partners link accounts
+- [`features/relationship-health-score.md`](features/relationship-health-score.md) — internal 0–100 score, its ranges, and what the AI service receives (internal text, never user-facing)
 
 ### Examples — reference when writing copy
 

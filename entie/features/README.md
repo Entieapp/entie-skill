@@ -15,6 +15,7 @@ When new features are added, drop in a new `.md` file and link it here.
 | AI Chat (3 modes) | [`ai-chat.md`](ai-chat.md) | Simple Chat, Deep Talk, and Guided Space — three ways to talk to (and through) the AI. |
 | Life Stage Modes | [`life-stage-modes.md`](life-stage-modes.md) | The app adapts to Cycle, Pregnancy, or Menopause stages. |
 | Partner Connection | [`partner-connection.md`](partner-connection.md) | How two partners link their accounts inside Entie. |
+| Relationship Health Score | [`relationship-health-score.md`](relationship-health-score.md) | Internal 0–100 score that drives the Dashboard scene; its range description is sent to the AI service via MCP. |
 
 ## Conventions
 
