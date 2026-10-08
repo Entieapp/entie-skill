@@ -1,6 +1,6 @@
 # Unique Selling Proposition
 
-> **Enjoy the love, let Entie handle the rest.**
+> **Partners, not roommates.**
 
 ## What it captures
 
@@ -21,7 +21,7 @@ Couples focus on each other. Entie handles the noticing, remembering, suggesting
 
 ## Don't dilute it
 
-Unless explicitly asked for variations, keep the line exactly as written: *Enjoy the love, let Entie handle the rest.*
+Unless explicitly asked for variations, keep the line exactly as written: *Partners, not roommates.*
 
 When variations are requested (for A/B tests or different ad formats), preserve the structure: **a verb of pleasure aimed at the partner + Entie taking care of everything else.** Examples that hold the spirit:
 
