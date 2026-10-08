@@ -16,7 +16,7 @@ These are reference examples — adapt to current store character limits and fea
 
 > Entie helps couples stay close — daily AI guidance, shared cycle, private talks.
 
-## Long description — example
+## Long description for App Store
 
 > **Enjoy the love, let Entie handle the rest.**
 >
